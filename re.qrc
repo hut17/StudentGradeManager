@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>display.png</file>
+        <file>sort.png</file>
+        <file>input.png</file>
+        <file>search.png</file>
+        <file>fileo.png</file>
+        <file>files.png</file>
+        <file>delete.png</file>
+        <file>modify.png</file>
+    </qresource>
+</RCC>
